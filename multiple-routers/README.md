@@ -1,4 +1,4 @@
-# ServerMux, a basic router in Go
+# ServeMux, a basic router in Go
 
 Multiple routers example.
 
