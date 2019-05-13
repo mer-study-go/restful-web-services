@@ -12,9 +12,9 @@ This service takes the number range (1-10) from the client and returns its Roman
 
 ```bash
 ├── README.md
-├── romanNumerals
+├── romannumerals
 │   └── data.go
-└── server
+└── romanserver
     └── server.go
 ```
 
