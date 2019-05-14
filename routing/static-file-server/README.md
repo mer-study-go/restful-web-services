@@ -1,6 +1,7 @@
 # Static file server
 
 ## static file location
+
 ```bash
 mkdir $HOME/static
 ```
