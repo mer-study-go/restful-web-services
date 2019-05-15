@@ -17,3 +17,7 @@ go get github.com/julienschmidt/httprouter
 curl -X GET http://localhost:8000/api/v1/go-version
 curl -X GET http://localhost:8000/api/v1/show-file/text.txt
 ```
+
+## Note
+
+This example can be extended to any system information.
